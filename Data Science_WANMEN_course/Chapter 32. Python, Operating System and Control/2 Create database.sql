@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS product (
 );
 
 -- create index seprately
-CREATE UNIQUE INDEX name_idx ON produc (name);
+CREATE UNIQUE INDEX name_idx ON product (name);
 DROP INDEX name_idx ON product;
 
 -- alter table;
