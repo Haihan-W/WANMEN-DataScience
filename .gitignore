@@ -3,4 +3,5 @@
 *.rar
 *.tar
 *.sqlite
-*.ipynb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
