@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=PnK1jO2kXOQ&ab_channel=JeffHeaton
+"Installing TensorFlow/Keras for CPU and GPU using CONDA (July, 2020)"
